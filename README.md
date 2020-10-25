@@ -14,3 +14,5 @@ docker-compose up --build
 
 username: leesaimun
 password: password
+
+Choice of DB: SQLite
